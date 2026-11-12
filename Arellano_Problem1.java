@@ -1,8 +1,8 @@
-package com.mycompany.main;
+package com.mycompany.arellano_problem1;
 
 import java.util.Scanner;
 
-public class Main {
+public class Arellano_Problem1 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
