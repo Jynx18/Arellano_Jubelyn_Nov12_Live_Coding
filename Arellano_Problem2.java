@@ -1,4 +1,4 @@
-package com.mycompany.main2;
+package com.mycompany.arellano_problem2;
 
 import java.util.Scanner;
 
